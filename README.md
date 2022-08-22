@@ -3,8 +3,8 @@ For this assignment I have built neural network with linear output layer. You ca
 
 ### Data preprocessing
 1. Download train data set and packages 'stopwords', 'punkt', 'wordnet', 'omw-1.4'. It contains dictionaries that will help us preprocess sentences. 
-2. In preprocessing we leave only alphabets, keep all lower case, tokenize sentences to words, remove stopwords, and keep all words in the inflected forms so they can be analysed as a single item.
-3. Using the text vectorization convert the text into numerical representation.
+2. In preprocessing we leave only alphabets, keep all lower case, tokenize sentences to words, remove stopwords, and keep all words in the inflected forms so they can be analyzed as a single item.
+3. Using text vectorization convert the text into numerical representation.
 4. Split the data on a train and val sets and keep it in arrays.
 
 ### Model
