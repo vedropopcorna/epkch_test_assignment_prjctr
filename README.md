@@ -1,4 +1,4 @@
-# epkch_test_assignment_prjctr
+# README for the test assignment
 For this assignment I have built neural network with linear output layer. You can find the code in 'test_assignment.ipynb'
 
 ### Data preprocessing
